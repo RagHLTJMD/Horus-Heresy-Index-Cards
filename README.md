@@ -1,4 +1,4 @@
-# Horus-Heresy-Game-Aid-Index-Cards
+# Horus Heresy 2nd Edition Index Cards
 The goal of this project is to crowd-sourced a collection of index cards to enable an easier time both playing 30k and also to help bridge more players over from 10th Edition 40k. The index cards have been one of the greatest additions to the game and it's about time they were expanded to the other game systems.
 
 # How to Use
