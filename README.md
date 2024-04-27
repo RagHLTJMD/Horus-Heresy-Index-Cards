@@ -16,6 +16,8 @@ As new rules and factions are added or changed we endevour to update the index c
 # How to get involved
 Download the template file and add in the desired unit, then push it to the repo and I will vet the card per the source text. If modifications need making I will let you know otherwise they will be committed to the repository. 
 
+Join our discord: https://discord.gg/dCgMvmcjcm
+
 # What is 30k
 Warhammer The Horus Heresy (30k) is a tabletop wargame made by Games Workshop. The Horus Heresy is set in the 31st Millennium where Horus, the chosen Warmaster of the Emperor, fell to the forces of Chaos, turning half his brothers with him, and kicking off the heresy we all know and love.
 
