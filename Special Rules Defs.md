@@ -15,6 +15,8 @@
 |Relentless|Models with this special rule can shoot with Heavy or Ordnance weapons, counting as stationary even if they moved in the previous ovement phase, they are also allowed to Charge in the same turn they fire Heavy, Ordinance or Rapid Fire Weapons |
 |Murderous Strike (X)|Wound rolls equal to or greater than X causes instant death, Roll any viable saves against this instant death causing wound separated and before any other wounds this attack inflicts|
 |Armourbane (Melee)|A weapon or model with this version of the Armourbane special rule only gains the benefits of Armourbane when attacking in close combat Roll additional D6 for armour penetration when targeting a Vehicle model or when targeting a model with the Automata or Dreadnought unit type, re-roll all failed rolls to wound instead. |
+|Armourbane (Melta)| Weapons with this special rule only gain the effects at half the maximum range of the weapon. Roll an additional D6 for AP when targeting a Vehicle or when targeting an Automata or Dreadnought Unit, re-roll all failed To Wound Rolls instead| 
+|Armourbane (Ranged) | Gain the effects of Armourbane when making shooting attacks. Roll an additional D6 for AP when targeting a Vehicle or when targeting an Automata or Dreadnought Unit, re-roll all failed To Wound Rolls instead |
 |Artificer Armour|2+ Armour Save|
 |Iron Halo|4+ Invulnerable Save|
 |Destroyer X |X denotes the number of attacks made when making a shooting attack with a Destroyer weapon. Models with Destroyer weapons may shoot and still charge in the Charge Phase.  In addition, when rolling for armour penetration with a Destroyer X weapon roll 3D6 and discard the lowest dice rolled, or any one of the lowest dice in the case of a tied result, Use the total of the remaining dice to determine the result.|
@@ -35,4 +37,5 @@
 |Reactor Meltdown (Major)|When a model with this Rule is destroyed, resolve hits caused by Catastrophic Damage as Destroyer Attacks at AP2, Refer to Destroyer Special rule. |
 |Ardex-Defensor|A model with the Knight or Titan unit Sub-Types that has weapons with this special rule may make Overwatch Reactions when it is triggered by models that do not have the Knight, Titan, Super-Heavy, or Lumbering Unit Sub-types, or that have fewer than 8 Wounds. |
 |Reactor Meltdown (Maxima)|When a model with this Rule is destroyed, resolve hits caused by Catastrophic Damage as Destroyer Attacks at AP2 and double the range of the Catastrophic Damage effect. Refer to Destroyer Special rule. |
-|||
+|Adamantium Will (X)|Gain an invuln save against wounds inflicted by weapons with the Force or Psychic Focus special rules and Wounds inflicted by Perils of the Warp|
+|Assault Vehicle | Upon disembarking a vehicle with this special rule models may Charge on the turn they do so (including Emergency disembarkation, unless the vehicle has just arrived from reserves)|
