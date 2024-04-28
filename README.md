@@ -5,7 +5,7 @@ The goal of this project is to crowd-sourced a collection of index cards to enab
 # What is an Index Card
 An index card is a game aid that contains all of a units specific rules, weapons profiles, and special rules. The aim is to give you a hands on referance to all of the relevant rules for your unit/faction to take to your games so you dont have to spend 4 hours flicking through Libre Astartes looking for what Destroyer 2 does again, or how Twin-Linked works in 30k. 
 
-![image](https://github.com/RagHLTJMD/Horus-Heresy-Game-Aid---Index-Cards/assets/43555809/5507b1d6-59ef-408e-a2a0-0e8689567657)
+![image](https://github.com/RagHLTJMD/Horus-Heresy-Game-Aid---Index-Cards/assets/43555809/1b6d939f-8a57-4e4d-a5c0-5bf48fb25d91)
 
 # How to Use
 Simply download the 2 sided index cards that apply to your army and print them. The recommended size would be A5 but can be printed at whatever desired size.
