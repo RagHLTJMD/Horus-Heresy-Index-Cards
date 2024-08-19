@@ -18,3 +18,5 @@
 | Armiger Helverin | Questoris Household | 
 | Knight Questoris | Questoris Household | 
 | Knight Castigator | Questoris Household | 
+| Warhound Titan | Collegia Titanica |
+| Reaver Titan | Collegia Titanica |
