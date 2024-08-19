@@ -12,6 +12,7 @@
 | Thallax | Mechanicum |
 | Castellax | Mechanicum |
 | Triaros Armoured Conveyor | Mechanicum |
+| Mechanicum Land Raider Phobos | Mechancium |
 | Knight Moirax | Mechanicum |
 | Armiger Helverin | Questoris Household |
 | Armiger Helverin | Questoris Household | 
