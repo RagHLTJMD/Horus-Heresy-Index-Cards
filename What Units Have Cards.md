@@ -1,10 +1,10 @@
-Legiones Astartes 
+#Legiones Astartes 
 | Unit | Type |
 | ------------- | ------------- |
 | Legion Praetor | All Astartes Legions |
 | Tactical Squad | All Astartes Legions |
 
-Forces Of The Cult Mechanicum 
+#Forces Of The Cult Mechanicum 
 | Unit | Type |
 | ------------- | ------------- |
 | Archmagos Prime | Mechanicum | 
